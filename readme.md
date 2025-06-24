@@ -1,5 +1,5 @@
-This is the project page for "Disclosure without Engagement: An Empirical Review of Positionality Statements at FAccT." A pre-print of the paper is hosted [here] (https://drive.google.com/file/d/1rEiNF26WRIChD0D4hGz_WrQ5WDZY2Heb/view?usp=sharing).
+This is the project page for "Disclosure without Engagement: An Empirical Review of Positionality Statements at FAccT." The paper from the FAccT Proceedings is [here] (https://dl.acm.org/doi/10.1145/3715275.3732079).
 
-We will share additional information about the corpus here.
+You can request access to the data described in the paper by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfKUFnlXxQqJIXAmC6vqb2UUIcN-nF9uuOM-qeqwg-Y1mEJAg/viewform?usp=header).
 
-Please reach out to hopes@mit.edu for any questions, or to request access to the data for research purposes.
+Please reach out to Hope Schroeder (hopes@mit.edu) for any questions.
